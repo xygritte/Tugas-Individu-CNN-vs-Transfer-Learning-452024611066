@@ -1,7 +1,3 @@
-Berikut adalah versi yang telah disempurnakan, diparafrase, dan diformat secara profesional menggunakan gaya bahasa akademis. Struktur ini digabungkan secara penuh agar Anda dapat langsung menyalinnya secara rapi.
-
----
-
 ## Analisis Komprehensif
 
 ### 1. Evaluasi Dataset
