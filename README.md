@@ -1,0 +1,1 @@
+# Tugas-Individu-CNN-vs-Transfer-Learning-452024611066
